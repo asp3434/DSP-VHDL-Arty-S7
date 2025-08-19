@@ -6,50 +6,50 @@ The end goal of the curriculum is to culminate in a project that demonstrates a 
 ## Curriculum
 ### Phase 1: Digital Logic Foundations
 Goal: Build comfort with VHDL, clocking, counters, and fixed-point arithmetic
-#### LED Blinking and Counters
+1. LED Blinking and Counters
 
-#### PWM Basics
+2. PWM Basics
 
-#### Fixed-Point Arithmetic
+3. Fixed-Point Arithmetic
 
-#### Sine Wave Lookup
+4. Sine Wave Lookup
 
 ### Phase 2: Intro to DSP Signals
 Goal: Learn how DSP transforms signals inside the FPGA
-#### Moving Average Filter
+5. Moving Average Filter
 
-#### FIR Filter (Hand-coded)
+6. FIR Filter (Hand-coded)
 
-#### IIR Filter (Hand-coded)
+7. IIR Filter (Hand-coded)
 
-#### Frequency Response Estimation
+8. Frequency Response Estimation
 
 ### Phase 3: Real-World DSP (with ADC/DAC PMODs)
 Goal: Process real analog signals, such as audio
-#### Signal Loopback (ADC -> DAC)
+9. Signal Loopback (ADC -> DAC)
 
-#### Low-Pass Filter for Audio
+10. Low-Pass Filter for Audio
 
-#### High-Pass / Band-Pass Filters
+11. High-Pass / Band-Pass Filters
 
-#### Real-Time Moving Average
+12. Real-Time Moving Average
 
 ### Phase 4: Advanced DSP Techniques
 Goal: Move toward professional-level DSP projects
-#### FFT Implementation
+13. FFT Implementation
 
-#### Convolution Reverb
+14. Convolution Reverb
 
-#### Digital Modulation (ASK/FSK/BPSK)
+15. Digital Modulation (ASK/FSK/BPSK)
 
-#### Adaptive Filters (LMS)
+16. Adaptive Filters (LMS)
 
-#### Real-time Spectogram
+17. Real-time Spectogram
 
 ### Phase 5: System-level Projects (Capstones)
 Goal: Put everything together
-#### Audio Equalizer
+18. Audio Equalizer
 
-#### Software-Defined Radio (SDR) - Basic
+19. Software-Defined Radio (SDR) - Basic
 
-#### Custom DSP Accelerator
+20. Custom DSP Accelerator
