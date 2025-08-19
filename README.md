@@ -16,7 +16,8 @@ Goal: Build comfort with VHDL, clocking, counters, and fixed-point arithmetic
 
 ### Phase 2: Intro to DSP Signals
 Goal: Learn how DSP transforms signals inside the FPGA
-5. Moving Average Filter (still renders as "5.")
+
+5. Moving Average Filter
 
 6. FIR Filter (Hand-coded)
 
@@ -26,6 +27,7 @@ Goal: Learn how DSP transforms signals inside the FPGA
 
 ### Phase 3: Real-World DSP (with ADC/DAC PMODs)
 Goal: Process real analog signals, such as audio
+
 9. Signal Loopback (ADC -> DAC)
 
 10. Low-Pass Filter for Audio
@@ -36,6 +38,7 @@ Goal: Process real analog signals, such as audio
 
 ### Phase 4: Advanced DSP Techniques
 Goal: Move toward professional-level DSP projects
+
 13. FFT Implementation
 
 14. Convolution Reverb
@@ -48,6 +51,7 @@ Goal: Move toward professional-level DSP projects
 
 ### Phase 5: System-level Projects (Capstones)
 Goal: Put everything together
+
 18. Audio Equalizer
 
 19. Software-Defined Radio (SDR) - Basic
