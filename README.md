@@ -16,7 +16,7 @@ Goal: Build comfort with VHDL, clocking, counters, and fixed-point arithmetic
 
 ### Phase 2: Intro to DSP Signals
 Goal: Learn how DSP transforms signals inside the FPGA
-5. Moving Average Filter
+5. Moving Average Filter (still renders as "5.")
 
 6. FIR Filter (Hand-coded)
 
