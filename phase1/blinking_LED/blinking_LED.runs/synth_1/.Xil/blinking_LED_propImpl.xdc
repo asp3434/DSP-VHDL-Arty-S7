@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:/home/drew/vhdl-dsp-project/DSP-VHDL-Arty-S7/phase1/blinking_LED/blinking_LED.srcs/constrs_1/new/blinking_LED_constraint.xdc rfile:../../../blinking_LED.srcs/constrs_1/new/blinking_LED_constraint.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN R2 [get_ports clk]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN E18 [get_ports led2]

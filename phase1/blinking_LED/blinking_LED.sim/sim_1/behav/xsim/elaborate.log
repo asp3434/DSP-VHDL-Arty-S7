@@ -1,0 +1,12 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2024.2/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot blinking_LED_behav xil_defaultlib.blinking_LED -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+ERROR: [XSIM 43-3388] /usr/bin/gcc not found, please install GCC for your Linux distribution.
+ERROR: [XSIM 43-3915] Encountered a fatal error. Cannot continue. Exiting... 

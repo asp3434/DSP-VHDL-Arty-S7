@@ -1,0 +1,46 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Fri Aug 22 12:50:59 2025
+| Host         : drew-SER running 64-bit Ubuntu 24.04.2 LTS
+| Command      : report_methodology -file blinking_LED_methodology_drc_routed.rpt -pb blinking_LED_methodology_drc_routed.pb -rpx blinking_LED_methodology_drc_routed.rpx
+| Design       : blinking_LED
+| Device       : xc7s25csga324-1
+| Speed File   : -1
+| Design State : Fully Routed
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max checks: <unlimited>
+             Checks found: 2
++-----------+----------+----------------------------------+--------+
+| Rule      | Severity | Description                      | Checks |
++-----------+----------+----------------------------------+--------+
+| HPDR-1    | Warning  | Port pin direction inconsistency | 1      |
+| TIMING-18 | Warning  | Missing input or output delay    | 1      |
++-----------+----------+----------------------------------+--------+
+
+2. REPORT DETAILS
+-----------------
+HPDR-1#1 Warning
+Port pin direction inconsistency  
+Hierarchical port(pin) led2 direction INOUT is not consistent with the directions of the cell pins/ports found at that level of the netlist hierarchy. Please review the design and consider changing the port(pin) direction. Both drivers and loads were expected for the net (led2) connected to this Port, but both were not found.
+Related violations: <none>
+
+TIMING-18#1 Warning
+Missing input or output delay  
+An output delay is missing on led2 relative to the rising and/or falling clock edge(s) of sys_clk_pin.
+Related violations: <none>
+
+
