@@ -7,7 +7,8 @@ The end goal of the curriculum is to culminate in a project that demonstrates a 
 ### Phase 1: Digital Logic Foundations
 Goal: Build comfort with VHDL, clocking, counters, and fixed-point arithmetic
 1. LED Blinking and Counters
-
+   - Blinking LED
+   - Binary Clock
 2. PWM Basics
 
 3. Fixed-Point Arithmetic
