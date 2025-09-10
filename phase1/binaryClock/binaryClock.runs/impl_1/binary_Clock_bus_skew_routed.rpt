@@ -1,0 +1,16 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
+| Date         : Wed Sep 10 14:08:00 2025
+| Host         : drew-SER running 64-bit Ubuntu 24.04.3 LTS
+| Command      : report_bus_skew -warn_on_violation -file binary_Clock_bus_skew_routed.rpt -pb binary_Clock_bus_skew_routed.pb -rpx binary_Clock_bus_skew_routed.rpx
+| Design       : binary_Clock
+| Device       : 7s25-csga324
+| Speed File   : -1  PRODUCTION 1.23 2018-06-13
+| Design State : Routed
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
